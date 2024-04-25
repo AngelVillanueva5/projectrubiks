@@ -1,2 +1,1 @@
 # projectrubiks
-Rubiks cube
